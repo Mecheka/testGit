@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android Eat it</string>
+    <string name="slogan">Hello everybody ! There have been many requests for me to make this tutorial. And today I just had time to implement it.</string>
+    <string name="singup">Sing Up</string>
+    <string name="phone_number">Phone number</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="sing_in">Sing In</string>
+</resources>
